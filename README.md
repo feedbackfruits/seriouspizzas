@@ -4,7 +4,7 @@
 
 ## Intro 
 
-Our team takes pizza and feedback very seriously. After having eaten our fair share of free pizza, we were very excited to be able to feed the Dutch Ember.js community with some pies during the 11th meetup. This is the point when we thought: "Free pizza is good. The right free pizza - even better… So lets build something that is from the community for the community and brings the right free pizza to the community!” Hence this repo where we can build it together:) 
+Our team takes pizza and feedback very seriously. After having eaten our fair share of free pizza, we were very excited to be able to feed the [Dutch Ember.js community](https://www.meetup.com/Ember-js-Amsterdam/) with some pies during the 11th meetup. This is the point when we thought: "Free pizza is good. The right free pizza - even better… So lets build something that is from the community for the community and brings the right free pizza to the community!” Hence this repo where we can build it together:) 
 
 ## Who is the app for
 
