@@ -1,6 +1,6 @@
 # SeriousPizzas
 
-> Free pizza is good. The right free pizza - even better."
+> Free pizza is good. The right free pizza - even better!
 
 ## Intro 
 
@@ -12,32 +12,34 @@ Any community/gathering/event, that wants to feed its members with the right fre
 
 ## Who can contribute
 
-- Pizza fanatics
-- Ember.js fanatics
-- Meetup and Communal fanatics
+- pizza fanatics
+- js front/backend fanatics
+- meetup and Communal fanatics
+- anyone with an obsession and a skill of sort
 
 ## What you can contribute with
 
-code, design or feature ideas
+code, design, feature ideas or spreading the message 
+" Make free pizza great again! Contribute to http://bit.ly/seriouspizzas "
 
 ## The goal 
 
-Build the most epic app that takes free pizzas to another level 
+Make free pizza great again! ˆˆ
 
 ## Feature ideas
 
 ### MVE 
 
-The app should allow the free pizza eaters (FPEs) to express a preference for a specific pizza or type of pizza for an upcoming event which they will be visiting. There should be an admin interface that allows the MOO (Master of Orders) to add items to an order menu. The FPEs should be able to access the menu and be able to submit their order for a specific event. Finally the MOO should be able to view who ordered what for the day and how many times an item was ordered all together.   
+The app should allow the free pizza eaters (FPEs) to express a preference for a specific pizza or type of pizza for an upcoming event which they will be visiting. There should be an admin interface that allows the MOP (Master of Pizzas) to add items to an order menu. The FPEs should be able to access the menu and be able to submit their order for a specific event. Finally the MOP should be able to view who ordered what for the day and how many times an item was ordered all together.   
 
-### EVP
+### EVE
 
 If you would like to make FPEs lives even better we can build also additional features, e.g.: 
 
  - Ability for the FPEs to see his order history
  - Ability for the FPEs to make a random order
  - Ability for the FPE to order the same as another FPE of choice
- - Ability for the MOO to import whole menu lists
+ - Ability for the MOP to import whole menu lists
  - A random pizza generator (generates a pizza with random toppings) 
  - A special FPEs preferences filter, allowing to filter the menu based on food allergies and preferences (e.g. “tunas belong in the see” - item does not contain tuna, “veggie” - vegetarian option, etc.)
  - Ability for the FPEs to submit an order by tweeting
