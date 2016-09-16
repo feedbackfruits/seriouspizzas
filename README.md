@@ -28,7 +28,7 @@ Build the most epic app that takes free pizzas to another level
 
 ### MVE 
 
-The app should allow the free pizza eaters (FPEs) to express a preference for a specific pizza or type of pizza fro an upcoming event which they will be visiting . There should be an admin interface that allows the MOO (Master of Orders) to add items to an order menu. The FPEs should be able to access the menu and be able to submit their order for a specific event. Finally the MOO should be able to view who ordered what for the day and how many times an item was ordered all together.   
+The app should allow the free pizza eaters (FPEs) to express a preference for a specific pizza or type of pizza for an upcoming event which they will be visiting. There should be an admin interface that allows the MOO (Master of Orders) to add items to an order menu. The FPEs should be able to access the menu and be able to submit their order for a specific event. Finally the MOO should be able to view who ordered what for the day and how many times an item was ordered all together.   
 
 ### EVP
 
