@@ -19,8 +19,8 @@ Any community/gathering/event, that wants to feed its members with the right fre
 
 ## What you can contribute with
 
-code, design, feature ideas or spreading the message 
-" Make free pizza great again! Contribute to http://bit.ly/seriouspizzas "
+code, design, feature ideas or spreading the message below
+>  Make free pizza great again! Contribute to http://bit.ly/seriouspizzas 
 
 ## The goal 
 
