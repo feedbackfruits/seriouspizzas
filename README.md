@@ -45,4 +45,4 @@ If you would like to make FPEs lives even better we can build also additional fe
  - Ability for the FPEs to submit an order by tweeting
  - Any other awesome feature you can think of! 
 
-Since we eat with our eyes presentation is important. We can use https://design.google.com/resource and https://github.com/google/material-design-lite to make the SeriousPizzas app better looking.
+Since we eat with our eyes presentation is important. We can use https://design.google.com/resources and https://github.com/google/material-design-lite to make the SeriousPizzas app better looking.
